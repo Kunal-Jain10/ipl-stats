@@ -58,7 +58,7 @@ body{
 }
 
 #nav-list a{
-	color: #951c49;
+	color: #bf0000;
 	text-align: center;
 	font-size: 1.8em;
 }
@@ -128,4 +128,27 @@ body{
 		font-size: .8em;
 		margin-top: 2px;
 	}
+}
+
+#tinfo{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: bold;
+	color: black;
+	text-decoration: underline;
+}
+
+ol li {
+	font-family: 'Lora', serif;
+	font-size: 1em;
+	color: #400000;
+	margin-bottom: 70px;
+}
+
+.tname{
+	font-family: 'Lora', serif;
+	font-size: 1em;
+	color: #03396C;
 }

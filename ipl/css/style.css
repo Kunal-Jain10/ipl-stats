@@ -127,11 +127,10 @@ body{
 #tinfo{
 	text-align: center;
 	text-transform: uppercase;
-	font-family: cursive;
+	font-family: 'Kanit', sans-serif;
 	font-size: 30px;
 	font-weight: bold;
 	color: black;
-	text-decoration: underline;
 }
 
 ol li {

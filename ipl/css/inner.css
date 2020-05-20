@@ -7,6 +7,7 @@ body{
 
 /** HEADER **/
 #header-nav{
+	width: 100%;
 	background-color: #d9534f;
 	border-radius: 0;
 	border: 0;
@@ -123,9 +124,14 @@ body{
 		margin-top: 2px;
 	}
 }
+@media(max-width: 400px){
+	#header-nav{
+	width: 115%;
+}
+}
 
 #customers {
-	margin: 50px;
+	margin: 30px;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 80%;
